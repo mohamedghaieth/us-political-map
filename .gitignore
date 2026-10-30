@@ -1,0 +1,11 @@
+node_modules/
+dist/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/app.db
+data/raw/
+data/work/
+.env
+.claude/
+.claude/
